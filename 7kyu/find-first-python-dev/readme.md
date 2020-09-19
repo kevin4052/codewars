@@ -1,0 +1,1 @@
+[`Coding Meetup #4 - Higher-Order Functions Series - Find the first Python developer`](https://www.codewars.com/kata/5827bc50f524dd029d0005f2/solutions/javascript)
