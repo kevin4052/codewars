@@ -1,15 +1,11 @@
 // my solution
 const generateHashtag = (str) => {
-    if (str.replace(/\s/g, "") === "") return false;
+    const newStr = str.split(' ').map(word => word.slice(0, 1).toUpperCase() + word.slice(1)).join("");
   
-    const arry = str.split(' ')
-                    .filter(word => word !== "")
-                    .map(word => word[0].toUpperCase() + word.slice(1));
+    const hashTag = `#${newStr}`;
   
-    const newStr = "#" + arry.join("");
-  
-    return newStr.length <= 140 ? newStr : false;
-}
+    return hashTag.length > 140 || newStr.length === 0 ? false : hashTag;
+  }
 
 // best practice
 function generateHashtag (str) {
