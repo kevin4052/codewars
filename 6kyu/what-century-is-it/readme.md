@@ -1,0 +1,1 @@
+[`What century is it?`](https://www.codewars.com/kata/52fb87703c1351ebd200081f)
