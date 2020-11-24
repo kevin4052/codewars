@@ -1,0 +1,1 @@
+[`Simple Moon Rating`](https://www.codewars.com/kata/5be8852935da89c5c8000157/javascript)
