@@ -1,0 +1,1 @@
+[`Which x for that sum?`](https://www.codewars.com/kata/5b1cd19fcd206af728000056/javascript)
