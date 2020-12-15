@@ -1,0 +1,1 @@
+[`The Walker`](https://www.codewars.com/kata/5b40b666dfb4291ad9000049/javascript)
