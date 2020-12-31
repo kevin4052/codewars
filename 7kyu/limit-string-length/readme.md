@@ -1,0 +1,1 @@
+[`Limit string length - 1`](https://www.codewars.com/kata/5208fc3cb613bc725f000142/javascript)
