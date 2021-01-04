@@ -1,0 +1,1 @@
+[`Get the integers between two numbers`](https://www.codewars.com/kata/598057c8d95a04f33f00004e/javascript)
